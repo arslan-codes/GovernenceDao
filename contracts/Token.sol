@@ -6,3 +6,9 @@ contract Token{
 }
 
 // this contract will launch the token for each community
+//will trigger and store tokens for each community 
+/* takesd all the input required for each token
+stores them on a struct 
+mappes each community to it relevent token metadata
+ 
+*/
