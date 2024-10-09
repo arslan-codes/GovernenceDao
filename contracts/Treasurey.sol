@@ -2,8 +2,13 @@
 pragma solidity ^0.8.0;
 
 contract Treasurey{
-
-  // this is the  contract that will hold the funds for each comnmunity 
-  // and will realse funds based on their decison  to the receiver 
-  // it will bew more like a band system for the contract 
+//this will hold the funds for the token
+//
 }
+
+
+/*
+
+i will have to learn tokenomics and dex amms
+andn liquidty poools annd etc
+*/
