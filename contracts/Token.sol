@@ -11,8 +11,7 @@ pragma solidity ^0.8.0;
 contract Token {}
 
 
-
 /*
-
+erc20 tokenm basics method to create a new token
 
 */
