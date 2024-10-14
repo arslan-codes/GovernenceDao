@@ -1,0 +1,1 @@
+// Fundraising Contract (ICO/IDO)
